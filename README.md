@@ -1,0 +1,2 @@
+# belajarbash
+Belajar Bash Scripting
